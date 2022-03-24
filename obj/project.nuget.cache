@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4EuOfm1yEfwb5EtkYclYDN3rS+tkf4B9EEDCFEBxImJBBdsFIpH8snuL8p3DMQ2+KLmADjFXVMWOxqZGjw6Geg==",
+  "success": true,
+  "projectFilePath": "/Users/marlagracesanford/Desktop/repos/examplerepo/examplerepo.csproj",
+  "expectedPackageFiles": [
+    "/Users/marlagracesanford/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.1/microsoft.netcore.app.host.osx-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
